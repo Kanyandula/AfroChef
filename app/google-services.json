@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "253372938298",
+    "firebase_url": "https://afrochef-c4aa4.firebaseio.com",
+    "project_id": "afrochef-c4aa4",
+    "storage_bucket": "afrochef-c4aa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253372938298:android:e297b0a7fa8029c0",
+        "android_client_info": {
+          "package_name": "com.ephraim.me.navigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253372938298-a32cju2skkphp5ph55npl01q4sb3jn6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ephraim.me.navigation",
+            "certificate_hash": "9f19f6d5972850e656ac097287e92b9604972cee"
+          }
+        },
+        {
+          "client_id": "253372938298-tbmpbjted1phro3g3tt35ul5kaqmhb1f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ephraim.me.navigation",
+            "certificate_hash": "95b19dde12c0566eded5b3f2d5ae50248f60ecba"
+          }
+        },
+        {
+          "client_id": "253372938298-rjlkq4gseus2tmskn4j3qihh7uor54th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDFyUrg8CkcuAQe-RE0jZxf_VWKqT5uMg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253372938298-rjlkq4gseus2tmskn4j3qihh7uor54th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

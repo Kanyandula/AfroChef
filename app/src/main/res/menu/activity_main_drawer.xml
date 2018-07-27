@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="Home" />
+
+
+        <item
+            android:id="@+id/nav_menu1"
+            android:icon="@drawable/cart"
+            android:title="African Markets" />
+        <item
+            android:id="@+id/nav_menu2"
+            android:icon="@drawable/food"
+            android:title="African Restaurants" />
+        <item
+            android:id="@+id/nav_menu3"
+            android:icon="@drawable/chef_hat"
+            android:title="African Chefs" />
+
+    </group>
+
+    <item android:title="">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/share"
+                    android:icon="@drawable/share"
+                    android:title="Invite Friend" />
+                <item
+                    android:icon="@drawable/feedback"
+                    android:title="Send Feedback" />
+
+                <item
+                    android:icon="@drawable/contact"
+                    android:title="Contact Us" />
+                <item
+
+                    android:title="About" />
+
+
+
+            </group>
+        </menu>
+    </item>
+
+
+</menu>
